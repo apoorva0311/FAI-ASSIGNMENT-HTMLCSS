@@ -1,0 +1,21 @@
+.info-container {
+    text-align: center;
+    display: block;
+    
+}
+.banner {
+    display:block;
+    margin: 0 auto;
+}
+.photos {
+    width: 180px;
+    height: 200px;
+    border: 1px solid black;
+}
+.image-container {
+    text-align: center;
+    margin-top:20px;
+}
+a {
+    color: blue;
+}
